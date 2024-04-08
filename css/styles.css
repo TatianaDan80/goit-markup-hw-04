@@ -412,12 +412,14 @@ img {
 
 .footer-f {
   background: #2e2f42;
+  padding: 100px 0;
   height: 312px;
   padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .footer-title {
+  display: block;
   display: flex;
   align-items: baseline;
 }
